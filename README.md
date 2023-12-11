@@ -1,1 +1,2 @@
-# SHP
+Overview
+In this project, our aim is to develop such a system that will predict the multiple diseases in accordance with symptoms put down by the patients without visiting the hospitals properly analyzing clinical documents about patients health anticipate the possibility of occurrence of various diseases. In addition, acquiring information regarding specialists of that particular disease as per the requirement facilitates proper and efficient diagnosis. This Project provides a machine learning (ML) Algorithms like, random forest (RF) classification algorithm Support Vector machine (SVM) and Naive Bayes (NB) Algorithm for prediction of disease.
