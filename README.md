@@ -12,3 +12,14 @@ SOFTWARE REQUIREMENTS <br>
 FUTURE SCOPE <br>
     The future scope of disease prediction holds tremendous potential in advancing healthcare systems. Integrating Big Data Sources and the future of smart health prognosis lies in integrating diverse datasets and technologies. data environmental data social media trends and other sources disease prediction models can provide a more comprehensive understanding of disease patterns and risks. This integration of big data sources promotes a holistic approach to disease prediction and management and the Public Health Planning for smart health prognosis models can be valuable tools for public health planning at both regional and global levels. By analysing data on disease prevalence environmental factors and population demographics these models can identify areas at higher risk of specific diseases.
 
+How To Use This
+First make sure PostgreSQL and pgadmin is install in your system. then you have to manually create a DB instance on PostgreSQL named "predico", better use PgAdmin for that. make a new environment(recommended) and run...
+
+Run pip install -r requirements.txt to install dependencies
+Run python manage.py makemigrations
+Run python manage.py migrate
+Run python manage.py runserver
+Navigate to http://127.0.0.1:8000/ in your browser
+Dataset used -
+https://www.kaggle.com/neelima98/disease-prediction-using-machine-learning
+
