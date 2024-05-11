@@ -22,5 +22,5 @@ Run python manage.py runserver
 Navigate to http://127.0.0.1:8000/ in your browser
 
 DATASET USED <br>
-https://www.kaggle.com/neelima98/disease-prediction-using-machine-learning
+Link : https://www.kaggle.com/neelima98/disease-prediction-using-machine-learning
 
